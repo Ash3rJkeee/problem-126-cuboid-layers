@@ -33,3 +33,4 @@ time = finish - start
 print("Вычисления закончены и заняли", time.microseconds, "микросекунд.")
 
 print(s.index(1000))
+
